@@ -1,0 +1,12 @@
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/net6.0/HospiEnCasa.App.Dominio.deps.json
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/net6.0/HospiEnCasa.App.Dominio.dll
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/net6.0/HospiEnCasa.App.Dominio.pdb
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEnCasa.App.Dominio.csproj.AssemblyReference.cache
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEnCasa.App.Dominio.AssemblyInfo.cs
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEnCasa.App.Dominio.dll
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/refint/HospiEnCasa.App.Dominio.dll
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEnCasa.App.Dominio.pdb
+/home/fmunoz/Escritorio/Cursos/Hospital/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/ref/HospiEnCasa.App.Dominio.dll
